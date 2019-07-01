@@ -1,0 +1,19 @@
+.name {
+    display: flex;
+}
+.input {
+    display: flex;
+    width: 45%;
+}
+.first {
+    width: 35%;
+}
+.last {
+    width: 21%;
+}
+.first_name {
+    width: 60%;
+}
+.last_name {
+    width: 60%;
+}

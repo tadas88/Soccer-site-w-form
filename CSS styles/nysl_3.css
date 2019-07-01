@@ -1,0 +1,147 @@
+.Home {
+    background-image: url("../soccer_image3.jpg");
+    padding-top: 20rem;
+    padding-left: 10rem;
+    text-decoration: none;
+    font-size: 34px;
+    background-position: bottom center;
+}
+.About {
+    background-image: url("../soccer_image2.jpg");
+    padding-top: 15rem;
+    padding-left: 4rem;
+    text-decoration: none;
+    font-size: 34px;
+    background-position: bottom center;
+}
+.Contact {
+    background-image: url("../soccer_image1.jpg");
+    padding-top: 20rem;
+    padding-left: 9rem;
+    text-decoration: none;
+    font-size: 34px;
+    background-position: bottom center;
+}
+.GameInfo {
+    background-image: url(../design1_image1.jpg);
+    padding-top: 15rem;
+    text-decoration: none;
+    font-size: 34px;
+    background-position: bottom center;
+}
+.Rules {
+    background-image: url(../design2_image1.jpg);
+    padding-top: 20rem;
+    padding-left: 9rem;
+    text-decoration: none;
+    font-size: 34px;
+    background-position: bottom center;
+}
+.links {
+    text-align: center;
+    margin-top: 27rem;
+}
+h1 {
+    text-align: center;
+    margin-top: 4rem;
+}
+img {
+    height: 100px;
+    width: 100px;
+    position: unset;
+    margin-left: 46%;
+    margin-bottom: -5rem;
+}
+a:link {
+    opacity: 0.5;
+}
+a:visited {
+    opacity: 0.5;
+}
+a:hover {
+    opacity: 1.0;
+    text-decoration-line: underline;
+}
+h2 {
+    text-align: center;
+}
+table {
+    width: 50%;
+    margin: 20px auto;
+}
+.tableTop {
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+.information {
+    margin-left: 25%;
+    text-align: left;
+}
+body {
+    font-size: larger;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+.form_item {
+    display: flex;
+    padding: 5px;
+}
+.all_check_schools1 {
+    display: flex;
+    padding: 5px;
+}
+.all_check_uniforms1 {
+    display: flex;
+    padding: 5px;
+}
+.all_check_schools2 {
+    display: flex;
+    padding: 5px;
+}
+.all_check_uniforms2 {
+    display: flex;
+    padding: 5px;
+}
+.input_left {
+    width: 44%;
+}
+.form_check_column {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+.check_line {
+    display: flex;
+    padding: 5px;
+}
+.grade {
+    display: flex;
+    padding: 5px;
+    width: 50%;
+    justify-content: space-between;
+}
+.text_input {
+    width: 40%;
+}
+.email {
+    width: 44%;
+}
+.zip {
+    width: 44%;
+}
+.input {
+    width: 44%;
+}
+.maps_column {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+.maps_row {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+}
